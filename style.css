@@ -1,0 +1,19 @@
+input{
+    margin-right: 20px;
+}
+
+.task1{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    width:500px;
+    gap:30px;
+}
+
+.btnAdd{
+    width:170px;
+}
+
+.showProducts{
+    padding: 100px;
+}
